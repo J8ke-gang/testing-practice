@@ -35,3 +35,5 @@ Handles a single-element array
 Handles a large number set
 Throws an error for an empty array
 Throws an error for non-array input
+
+![Screenshot 2025-02-09 145005](https://github.com/user-attachments/assets/c819873a-ec84-4ba5-bf55-4e3492e59d8e)
